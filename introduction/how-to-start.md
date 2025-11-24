@@ -4,7 +4,7 @@ icon: flag-checkered
 
 # How to start
 
-In this chapter we want to describe on how to get started with hardware hacking and the tools you may need. Hardware hacking is all about investigating, breaking down, and understanding the underlying components of everyday devices—unlocking their secrets and sometimes even repurposing them for new tasks.
+In this chapter we want to describe how to get started with hardware hacking and the tools you may need. Hardware hacking is all about investigating, breaking down, and understanding the underlying components of everyday devices—unlocking their secrets and sometimes even repurposing them for new tasks.
 
 ## Choosing Your First Target Device
 
@@ -67,9 +67,9 @@ I recommend reading the following pages on how to approach your first hardware h
 2. [Reconnaissance](../network-analysis/reconnaissance.md)
    1. In this section we give an overview on what to look out for on a device
 3. [Interface Interaction](../hardware-hacking/interface-interaction/)
-   1. You found and interesting chip or connector on the device? This section will explain standard protocols like UART, SPI, JTAG etc. and how we can interact with them&#x20;
+   1. You found an interesting chip or connector on the device? This section will explain standard protocols like UART, SPI, JTAG etc. and how we can interact with them&#x20;
 4. [Analyze Firmware](../hardware-hacking/analyze-firmware.md)
-   1. You were able to dump the firmware? NICE WORK! Now it's time to analyze it, this section shows you what to do
+   1. You were able to dump the firmware? NICE WORK! Now it's time to analyze it; this section shows you what to do
 5. You want to take different approaches? Check out [Network Analysis](../network-analysis/introduction.md) or [Radio Hacking](../radio-hacking/introduction.md)
 6. [Contribute](../contribute/how-to-contribute.md)
    1. You may have come across a new proprietary protocol? Or you want to share the story on how you hacked your device? We would love to hear about it! This section will give you guidance on how you can support the hardware hacking community!
